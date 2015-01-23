@@ -1,0 +1,53 @@
+# WebAuthor
+<html> 
+<head>
+<title>HTML Challenge</title>
+
+<style>
+table, th, td {
+	border: 1px solid black;
+}
+</style>
+</head>
+<body>
+<h1>Thomonique Moore</h1>
+<h3>Junior || Information Systems Major </h3>
+<br>
+<br>
+<p> Howdy, I am Thomonique Moore. Most people call me Thomo for short. I am a 21 year old, 3rd year student at Howard University. I'm originally from Virginia Beach, which isn't too far from here. I like to read books and have long conversations about philosphy and feminism in my spare time. I also prefer bars to nightclubs on any given Friday/Saturday night. 
+<p>I'm currently a business major, but the longer I stay, the more I realize I have no real <i>interest</i> in it. I hope to get my phd and teach higher education, but right now I'm remaining open to the many possibilities. 
+<br> 
+<br>
+<br>
+<br>
+<table border="3" style="width: 50%">
+	<tr>
+		<td>Company</td>
+		<td>Industry</td>
+		<td>Location</td>
+	</tr>
+	<tr>
+		<td>Accenture</td>
+		<td>IT Consulting</td>
+		<td>Washington, DC</td>
+	<tr>
+		<td>University of Maryland</td>
+		<td>Department of Women and Gender Studies</td>
+		<td>Maryland</td>
+	</tr>
+	</table>
+	<br>
+	<br>
+	<p> I have attended so many different schools from Kindergarten until now:</p>
+	<br>
+	<ol>
+		<li>Jay Cox Elemntary</li>
+		<li>James Monroe Elementary</li>
+		<li>Douglass Park Elementary</li>
+		<li>Lynnhaven Elementary</li>
+		<li>Fairlawn Elemenary</li>
+		<li>Northlanding Elementary</li>
+		<li>Landstown Middle School</li>
+		<li>Landstown High School</li>
+		<li>Howard University</li>
+	</ol>
